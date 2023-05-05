@@ -1,3 +1,3 @@
 # DataSciences
 
-It is a powebi dataanalysis chart
+It is a powebi oriented data-analysis chart
